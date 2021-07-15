@@ -1,0 +1,31 @@
+﻿  MyForm.cpp
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(203): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(288): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(356): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(410): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(426): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(427): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(428): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(433): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(434): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(436): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(437): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(439): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(442): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(443): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(450): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(451): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(460): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(462): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(464): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(469): warning C4244: 'argument': conversion from 'unsigned __int64' to 'unsigned int', possible loss of data
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(701): warning C4129: '*': unrecognized character escape sequence
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(721): warning C4129: '*': unrecognized character escape sequence
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\MyForm.h(1122): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\myform.h(815): warning C4715: 'CppWinForm1::Stack::top': not all control paths return a value
+c:\users\dell\documents\visual studio 2015\projects\cppwinform1\cppwinform1\myform.h(284): warning C4715: 'CppWinForm1::getLastChild': not all control paths return a value
+  CppWinForm1.vcxproj -> C:\Users\Dell\Documents\Visual Studio 2015\Projects\CppWinForm1\Debug\CppWinForm1.exe
+  CppWinForm1.vcxproj -> C:\Users\Dell\Documents\Visual Studio 2015\Projects\CppWinForm1\Debug\CppWinForm1.pdb (Full PDB)

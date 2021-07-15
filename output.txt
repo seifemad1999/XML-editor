@@ -1,0 +1,8 @@
+<personnel>
+  <person id="person.one">
+    <name>Boss</name>
+  </person>
+  <person id="person.two">
+    <name>Worker</name>
+  </person>
+</personnel>
